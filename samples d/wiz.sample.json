@@ -1,5 +1,9 @@
 {
   "env":{},
   "vars":{}
-  "tasks":[]
+  "tasks":{
+    "packages":{},
+    "source":{},
+    "cleanup":{}
+  }
 }
