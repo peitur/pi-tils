@@ -67,6 +67,9 @@ ht
 hyx
 imhex
 rtl-sdr
+python3-rtlsdr
+librtlsdr0
+librtlsdr-dev
 firmware-atheros
 firmware-bnx2
 firmware-bnx2x
