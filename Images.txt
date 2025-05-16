@@ -1,0 +1,9 @@
+https://cdimage.kali.org/kali-weekly/kali-linux-2025-W18-installer-amd64.iso 
+https://cdimage.kali.org/kali-2025.1c/kali-linux-2025.1c-installer-purple-amd64.iso 
+https://cdimage.kali.org/kali-2025.1c/kali-linux-2025.1c-installer-amd64.iso 
+https://kali.download/arm-images/kali-2025.1c/kali-linux-2025.1c-raspberry-pi-arm64.img.xz 
+https://kali.download/arm-images/kali-2025.1c/kali-linux-2025.1c-raspberry-pi5-arm64.img.xz
+
+https://nycdn.netbsd.org/pub/NetBSD-daily/netbsd-10/latest/evbarm-aarch64/binary/gzimg/arm64.img.gz
+https://cdn.openbsd.org/pub/OpenBSD/7.7/arm64/install77.img
+https://ftpmirror2.infania.net/nomadbsd/nomadbsd-141R-20240711.amd64.ufs.img.lzma
