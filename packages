@@ -109,3 +109,10 @@ realtek-rtl8188eus-dkms
 realtek-rtl8723cs-dkms
 realtek-rtl8814au-dkms
 realtek-rtl88xxau-dkms
+podman
+podman-compose
+podman-docker
+podman-toolbox
+python3-podman
+buildah
+
