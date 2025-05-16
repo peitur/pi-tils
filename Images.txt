@@ -6,4 +6,6 @@ https://kali.download/arm-images/kali-2025.1c/kali-linux-2025.1c-raspberry-pi5-a
 
 https://nycdn.netbsd.org/pub/NetBSD-daily/netbsd-10/latest/evbarm-aarch64/binary/gzimg/arm64.img.gz
 https://cdn.openbsd.org/pub/OpenBSD/7.7/arm64/install77.img
+https://download.freebsd.org/releases/arm64/aarch64/ISO-IMAGES/14.2/FreeBSD-14.2-RELEASE-arm64-aarch64-RPI.img.xz
 https://ftpmirror2.infania.net/nomadbsd/nomadbsd-141R-20240711.amd64.ufs.img.lzma
+https://download.ghostbsd.org/releases/amd64/latest/
