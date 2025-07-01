@@ -116,3 +116,5 @@ podman-toolbox
 python3-podman
 buildah
 micropython
+volang
+golang-golang-x*
